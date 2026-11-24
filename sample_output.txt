@@ -1,0 +1,4 @@
+Maximum value (Bottom-Up): 37
+Maximum value (Top-Down): 37
+Selected items (1-based): [1, 2, 4]
+Total weight: 5
